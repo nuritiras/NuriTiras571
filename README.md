@@ -1,17 +1,19 @@
 # SORULAR
 (Önemli Not: Veri tipi ve isimlendirme seçimlerinde en uygun olanı tercih ediniz. Kendi uygulamam da örnek olarak İsim Soy isim için Nuri TIRAŞ, okul numarası için 571 değeri esas alınmış olup siz verilerinize göre bu değerleri değiştirmeniz gerekmektedir.)
 ### 1.	Android Studio programını çalıştırın. (1P)
+
 ### 2.	Projects  > New Project > Empty Views Activty > IsminizSoyisminizNumaraniz(NuriTiras571) adında diyanet.gov.tr kurumu için Java programlama dilini kullanarak  bir proje oluşturunuz. (4P)
 
 ### 3.	Mobil Geliştirme ortamında ConstraintLayout yerleşimini yandaki görünümü esas alarak alt alta yerleştiriniz.  (25P)
-a)	“TDV Zekat Hesapla” Text View, renk:mavi(#0000FF), yazı boyutu:34sp, textAlignment:center, fontFamily:sans-serif-black
-b)	 “Tasarım ve Kodlama : Isim Soyisim” Text View, renk:kirmizi(#FF0000), yazı boyutu:18sp, textAlignment:center, fontFamily:andika_new_basic
-c)	Diğer tüm Text Viewlerin yazı boyutu:18sp olacak.
-d)	İlk üç Edit Text nesnesi Number seçilecek, id değerleri sırasıyla numberTL, numberDolar, numberEuro olacak ve varsayılan text değerleri numaranız (571) olacak şekilde ayarlayınız. 
-e)	“Kıymetli maden var mı?” yazısını içeren ve yazı boyutu:18sp olan Switch nesnesini ekleyiniz. 
-f)	Son iki Edit Text nesnesi Number (Decimal) seçilecek, id değerleri sırasıyla numberAltin, numberGumus olacak ve varsayılan text değerleri (0.0) olacak şekilde ayarlayınız. 
-g)	“HESAPLA” yazısını içeren, id değeri buttonHesapla olan button nesnesini ekleyiniz.
-4.	“Kıymetli maden var mı?”  Evet seçilince altındaki ögeleri (iki adet Text View, iki adet Number (Decimal)) gösteren. Aksi takdirde gizleyen kodu yazınız. (10P)
+#### a)	“TDV Zekat Hesapla” Text View, renk:mavi(#0000FF), yazı boyutu:34sp, textAlignment:center, fontFamily:sans-serif-black
+#### b)	 “Tasarım ve Kodlama : Isim Soyisim” Text View, renk:kirmizi(#FF0000), yazı boyutu:18sp, textAlignment:center, fontFamily:andika_new_basic
+#### c)	Diğer tüm Text Viewlerin yazı boyutu:18sp olacak.
+#### d)	İlk üç Edit Text nesnesi Number seçilecek, id değerleri sırasıyla numberTL, numberDolar, numberEuro olacak ve varsayılan text değerleri numaranız (571) olacak şekilde ayarlayınız. 
+#### e)	“Kıymetli maden var mı?” yazısını içeren ve yazı boyutu:18sp olan Switch nesnesini ekleyiniz. 
+#### f)	Son iki Edit Text nesnesi Number (Decimal) seçilecek, id değerleri sırasıyla numberAltin, numberGumus olacak ve varsayılan text değerleri (0.0) olacak şekilde ayarlayınız. 
+#### g)	“HESAPLA” yazısını içeren, id değeri buttonHesapla olan button nesnesini ekleyiniz.
+
+### 4.	“Kıymetli maden var mı?”  Evet seçilince altındaki ögeleri (iki adet Text View, iki adet Number (Decimal)) gösteren. Aksi takdirde gizleyen kodu yazınız. (10P)
 
 ### 5.	Kıymetli maden hariç, toplam mal varlığını geriye döndüren (altın gr olarak) ve üç parametresi olan (TL, Dolar, Euro) malVarligi isminde bir metod yazınız. (10P)
 
