@@ -25,11 +25,11 @@
 
 ### 9.	Projeyi zip file olarak Export ederek (Öğrenci Belgeleri) Z:\Ortak\11B\MU\ dizinine yükleyin. (5P)
 
-### Önemli Bilgiler: Zekât, dinen zenginlik ölçüsü kabul edilen miktarda (nisap) mala sahip olan kimselerin Allah rızası için muayyen kişilere vermesi gereken belli miktarı ifade eder. Nisap, zekâtla yükümlü olmak için esas alınan zenginlik ölçüsüdür. Bu ölçü, altında 20 miskal (80.18 gr), devede 5, sığırda 30, koyun ve keçide 40 adettir. Buna göre temel ihtiyaçları dışında nisap miktarı mala sahip olan kişinin, yukarıda belirtilen diğer şartlar da yerine gelmişse bu mallarının zekâtını vermesi gerekir. (Kaynak: İslam Ansiklopedisi)
-Biz uygulamamızda 80.18 gr. altını olanı esas alacağız. 1 gr. altın=1956.2TL, 1 gr. altın=66.3$, 1 gr. altın= 59.7€ ve 1 gr. altın=1836 gr. gümüş eder.  Tüm birimler altın cinsine çevrilip, toplam mal varlığı altın cinsinden hesaplanıp nisap miktarı öyle karşılaştırılacaktır. (Aşağıdaki formülü kullanabilirsiniz)
-Kıymetli maden hariç toplam mal varlığı (altın gr. olarak) = (TL/1956.2+Dolar/66.3+Euro/59.7)
-Kıymetli maden dahil toplam mal varlığı (altın gr.) = (TL/1956.2+Dolar/66.3+Euro/59.7+Altin+Gumus/1836)
-Verilecek Zekât Miktarını TL olarak bulmak için; toplam mal varlığı TL’ye çevrilip öyle hesaplanacaktır. (Aşağıdaki formülü kullanabilirsiniz.)
-Verilecek Zekât Miktarı (TL olarak) =Toplam Mal Varlığı (Altın gr. olarak) *1956.2/40,
-### 
+##### Önemli Bilgiler: Zekât, dinen zenginlik ölçüsü kabul edilen miktarda (nisap) mala sahip olan kimselerin Allah rızası için muayyen kişilere vermesi gereken belli miktarı ifade eder. Nisap, zekâtla yükümlü olmak için esas alınan zenginlik ölçüsüdür. Bu ölçü, altında 20 miskal (80.18 gr), devede 5, sığırda 30, koyun ve keçide 40 adettir. Buna göre temel ihtiyaçları dışında nisap miktarı mala sahip olan kişinin, yukarıda belirtilen diğer şartlar da yerine gelmişse bu mallarının zekâtını vermesi gerekir. (Kaynak: İslam Ansiklopedisi)
+##### Biz uygulamamızda 80.18 gr. altını olanı esas alacağız. 1 gr. altın=1956.2TL, 1 gr. altın=66.3$, 1 gr. altın= 59.7€ ve 1 gr. altın=1836 gr. gümüş eder.  Tüm birimler altın cinsine çevrilip, toplam mal varlığı altın cinsinden hesaplanıp nisap miktarı öyle karşılaştırılacaktır. (Aşağıdaki formülü kullanabilirsiniz)
+##### Kıymetli maden hariç toplam mal varlığı (altın gr. olarak) = (TL/1956.2+Dolar/66.3+Euro/59.7)
+##### Kıymetli maden dahil toplam mal varlığı (altın gr.) = (TL/1956.2+Dolar/66.3+Euro/59.7+Altin+Gumus/1836)
+##### Verilecek Zekât Miktarını TL olarak bulmak için; toplam mal varlığı TL’ye çevrilip öyle hesaplanacaktır. (Aşağıdaki formülü kullanabilirsiniz.)
+##### Verilecek Zekât Miktarı (TL olarak) =Toplam Mal Varlığı (Altın gr. olarak) *1956.2/40,
+##### 
 ![image](https://github.com/nuritiras/NuriTiras571/assets/47992544/fc366403-bfe5-4e18-a9a8-7e969a649f9f)
