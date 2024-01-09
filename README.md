@@ -1,5 +1,5 @@
-
-SORULAR
+# SORULAR
+![image](https://github.com/nuritiras/NuriTiras571/assets/47992544/fc366403-bfe5-4e18-a9a8-7e969a649f9f)
 (Önemli Not: Veri tipi ve isimlendirme seçimlerinde en uygun olanı tercih ediniz. Kendi uygulamam da örnek olarak İsim Soy isim için Nuri TIRAŞ, okul numarası için 571 değeri esas alınmış olup siz verilerinize göre bu değerleri değiştirmeniz gerekmektedir.)
 1.	Android Studio programını çalıştırın. (1P)
 2.	Projects  > New Project > Empty Views Activty > IsminizSoyisminizNumaraniz(NuriTiras571) adında diyanet.gov.tr kurumu için Java programlama dilini kullanarak  bir proje oluşturunuz. (4P)
@@ -31,5 +31,3 @@ Kıymetli maden dahil toplam mal varlığı (altın gr.) = (TL/1956.2+Dolar/66.3
 Verilecek Zekât Miktarını TL olarak bulmak için; toplam mal varlığı TL’ye çevrilip öyle hesaplanacaktır. (Aşağıdaki formülü kullanabilirsiniz.)
 Verilecek Zekât Miktarı (TL olarak) =Toplam Mal Varlığı (Altın gr. olarak) *1956.2/40
 
-	Hasan DAĞ			Nuri TIRAŞ						Hüseyin CERİTLİ
-		Bilişim Teknolojileri Öğretmenleri		 				    Okul Müdürü
